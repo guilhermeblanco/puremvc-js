@@ -1,7 +1,7 @@
 An old-style JavaScript implementation for PureMVC: http://puremvc.org
 
 
-THIS IS AN OFFICIAL PORT OF PUREMVC, WHICH IS CURRENTLY PENDING COPYRIGHT APPROVAL.
+THIS IS *NOT* AN OFFICIAL PORT OF PUREMVC, WHICH IS CURRENTLY PENDING COPYRIGHT APPROVAL.
 
 This repository may be removed if not approved officially, since PureMVC is
 currently planning its own official port.
